@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">B2 File Browser</string>
+    <string name="title_activity_main">B2 File Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preferences -->
+    <string name="applicationAuthorizationId_title">Application authorization token id</string>
+    <string name="applicationAuthorizationKey_title">Application authorization token</string>
+    <string name="bucketId_title">Bucket id. Useful only if application is not restricted to a single bucket</string>
+    <string name="allowDownload_title">Allow download of files</string>
+
+
+</resources>
