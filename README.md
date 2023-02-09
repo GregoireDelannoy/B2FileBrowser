@@ -1,7 +1,8 @@
 # B2FileBrowser
 Minimalist Android file browser for Backblaze B2
 
-Coded in a few days as a way to discover Kotlin + Android dev, and to fill the lack of ANY usable android app to browse B2.
+Coded in a few days as a way to discover Kotlin + Android dev, and ~~to fill the lack of ANY usable android app to browse B2.~~
+**UPDATE: Backblaze android app now supports B2 buckets: https://play.google.com/store/apps/details?id=com.backblaze.android**
 
 ## How to use:
 * Set API id & key in settings
